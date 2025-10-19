@@ -2,6 +2,8 @@
 
 Backend server for managing Categories, Subcategories, and Items. Designed for deployment on Railway and local development.
 
+Deployed Link: https://guestara-assignment-ib43.onrender.com
+
 ## Tech Stack
 - Node.js, Express
 - MongoDB with Mongoose
